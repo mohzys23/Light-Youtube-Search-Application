@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import SearchBar from '../components/SearchBar';
-import {css} from "@emotion/css";
 import styled from "@emotion/styled"
 import youtube from '../apis/youtube';
 import VideoList from './VideoList';
