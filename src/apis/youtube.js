@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const API_KEY = "AIzaSyApZm45MYxCvO_JKMbbh_-EL7SZ49KaWPc";
+
 
 
 export default axios.create({
